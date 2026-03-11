@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url_descarga": "AQUI_PONDREMOS_EL_LINK_DEL_EXE_EN_EL_PASO_SIGUIENTE",
+  "version": "1.1.3",
+  "url_descarga": "https://github.com/luisjoselares/pegasus-fisco-updates/releases/download/v1.1.3/Pegasus_Fisco_Installer.exe",
   "notas_cambio": "Lanzamiento inicial del actualizador automático."
 }
